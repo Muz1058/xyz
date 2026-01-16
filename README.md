@@ -69,9 +69,3 @@ int main() {
 
     return 0;
 }
-
-
-
-g++ task.cpp -pthread -o task.out
-./task.out
-
